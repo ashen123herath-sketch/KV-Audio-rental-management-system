@@ -1,0 +1,4 @@
+# pack-refs with: peeled fully-peeled sorted 
+76bd18d85aa438060536e1d99ee78b582aff3982 refs/remotes/origin/dev
+d2b8758b1005262aa4aa42b4592185e87314ada8 refs/remotes/origin/feature/product-adding/sathsara
+6d5f7595b3fd8f73c7a6e3ed63db7db2958f960b refs/remotes/origin/main
